@@ -1,5 +1,7 @@
 # Interactive Air Quality Index (AQI) Explorer
 
+https://coolkaku.shinyapps.io/aqi-explorer/
+
 A single-file R Shiny app that turns raw pollutant concentrations into a
 composite Air Quality Index under two national standards — the **US EPA
 AQI** and **India's NAQI (CPCB)** — with a live gauge, a color-coded
