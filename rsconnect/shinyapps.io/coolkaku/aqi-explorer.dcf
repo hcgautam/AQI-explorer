@@ -1,0 +1,12 @@
+name: aqi-explorer
+title: aqi-explorer
+username: coolkaku
+account: coolkaku
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17626047
+bundleId: 12293554
+url: https://coolkaku.shinyapps.io/aqi-explorer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
